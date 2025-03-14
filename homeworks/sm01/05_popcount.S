@@ -22,7 +22,7 @@ loop_start:
 
     jmp loop_start
 
-incremetn_ans:
+increment_ans:
     inc r12
     jmp loop_start
 
